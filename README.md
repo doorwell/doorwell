@@ -1,5 +1,6 @@
 ## Hi there
 Welcome to my GitHub page.
+Here to learn to code, not to prompt engineer.
 <!--
 **doorwell/doorwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
