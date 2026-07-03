@@ -3,6 +3,6 @@ Welcome to my GitHub page.
 Currently am an aspiring Rustacean and humble Python dev.  
 I also love tinkering with NixOS and writing games in C#.
 
-Be sure to check out personal [projects](https://codeberg.org/doorwell), hosted on Codeberg.
+Be sure to check out my personal [projects](https://codeberg.org/doorwell), hosted on Codeberg.
 
 > Apart from the *obvious*, I don't know what my username stands for either.
